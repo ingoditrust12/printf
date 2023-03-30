@@ -1,1 +1,1 @@
-dohardthings
+printf
